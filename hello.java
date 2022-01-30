@@ -1,3 +1,4 @@
 System.out.println("Hello World");
-x = 12
-System.out.println(x);
+Y = "This is string";
+System.out.println(Y);
+
